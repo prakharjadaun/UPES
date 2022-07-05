@@ -11,3 +11,5 @@ This folder contains all the assessments that I have performed in the machine le
 8. Logistic Regression - Multi class
 9. Decision Tree
 10. Random Forest
+11. Artificial Neural Network
+12. 
