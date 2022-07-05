@@ -5,3 +5,5 @@ This folder contains all the assessments that I have performed in the machine le
 2. Multiple Linear Regression
 3. Ridge Regression
 4. Lasso Regression
+5. Classification
+6. Multiclass Classification
