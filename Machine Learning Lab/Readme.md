@@ -12,4 +12,4 @@ This folder contains all the assessments that I have performed in the machine le
 9. Decision Tree
 10. Random Forest
 11. Artificial Neural Network
-12. 
+12. Support Vector Machine
