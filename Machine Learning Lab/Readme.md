@@ -7,3 +7,5 @@ This folder contains all the assessments that I have performed in the machine le
 4. Lasso Regression
 5. Classification
 6. Multiclass Classification
+7. Logistic Regression - Two class
+8. Logistic Regression - Multi class
