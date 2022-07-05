@@ -13,3 +13,4 @@ This folder contains all the assessments that I have performed in the machine le
 10. Random Forest
 11. Artificial Neural Network
 12. Support Vector Machine
+13. K-Means clustering
