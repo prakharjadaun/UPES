@@ -9,9 +9,13 @@ This repository contains all the experiments that I have performed in DCCN lab. 
 ### **Experiment 2**
 1. Arrays using pointers.
 
-### **Experiemtn 3**
+### **Experiemnt 3**
 1. Data Rate. 
 2. Signal Rate.
 
 ### **Experiment 4**
 1. Bit Stuffing.
+
+### **Experiment 5**
+1. Binary to decimal conversion.
+2. Cyclic Redundancy Check.
