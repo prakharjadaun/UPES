@@ -8,3 +8,7 @@ This repository contains all the experiments that I have performed in DCCN lab. 
 
 ### **Experiment 2**
 1. Arrays using pointers.
+
+### **Experiemtn 3**
+1. Data Rate. 
+2. Signal Rate.
