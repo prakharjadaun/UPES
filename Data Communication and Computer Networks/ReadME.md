@@ -19,3 +19,6 @@ This repository contains all the experiments that I have performed in DCCN lab. 
 ### **Experiment 5**
 1. Binary to decimal conversion.
 2. Cyclic Redundancy Check.
+
+### **Experiment 6**
+1. Pure Aloha code
