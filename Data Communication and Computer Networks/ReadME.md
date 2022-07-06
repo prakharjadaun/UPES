@@ -1,3 +1,8 @@
 # **Data Communication and Computer Networks**
 
-This repository contains all the experiments that I have performed in DCCN lab. 
+This repository contains all the experiments that I have performed in DCCN lab. The experiments are as follows:
+
+### **Experiment 1**
+1. Binary Addition.
+2. Bitwise Operators
+
