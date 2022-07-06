@@ -4,5 +4,7 @@ This repository contains all the experiments that I have performed in DCCN lab. 
 
 ### **Experiment 1**
 1. Binary Addition.
-2. Bitwise Operators
+2. Bitwise Operators.
 
+### **Experiment 2**
+1. Arrays using pointers.
